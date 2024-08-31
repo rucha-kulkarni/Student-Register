@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import "../../styles/AddressSection.css";
 import axios from "axios";
 import StudentSelect from "./StudentSelect";
